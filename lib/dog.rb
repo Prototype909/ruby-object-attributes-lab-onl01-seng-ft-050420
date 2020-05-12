@@ -3,7 +3,7 @@ def initialize(name)
   @name = name
 end
 
-def name 
+def name
   @nanme
   end
 end
