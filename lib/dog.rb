@@ -7,7 +7,7 @@ class Dog
     @nanme
   end
 
-  def breeD= (breed)
+  def breed= (breed)
     @breed = breed
   end
 
